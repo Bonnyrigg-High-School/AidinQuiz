@@ -23,4 +23,5 @@
 .choice-text {
     padding: 1rem;
     color: rgb(0, 0, 0);
+    width: 100%;
 }
